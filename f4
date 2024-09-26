@@ -1,4 +1,8 @@
 this is fourth file
 after merge i am editing
 editing from the github 
+<<<<<<< HEAD
 created branch is not found in github
+=======
+i am not finding the data entered in git bash
+>>>>>>> 3f01fa97b26413ed2a7b7bda9503edd8a3a6ca27
